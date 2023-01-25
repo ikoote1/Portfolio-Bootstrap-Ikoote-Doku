@@ -1,15 +1,15 @@
 body::before {
-    display: block;
-    content: '';
-    height: 60px;
+  display: block;
+  content: '';
+  height: 60px;
 }
 
-@media(min-width: 768px) {
-    .news-input {
-        width: 50%;
-    }
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
 
-    .img-fluid {
-        width: 75%;
-    }
+  .img-fluid {
+    width: 75%;
+  }
 }
